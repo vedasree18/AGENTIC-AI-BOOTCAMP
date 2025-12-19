@@ -1,0 +1,15 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "example input",
+      "timestamp": "2023-01-01T12:00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "example response",
+      "timestamp": "2023-01-01T12:00:05"
+    }
+  ]
+}
+

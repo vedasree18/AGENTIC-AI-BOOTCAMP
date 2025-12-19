@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "What does 'Responsible AI' mean?",
+    "options": [
+      "AI that is always right.",
+      "AI that is built safely, ethically, and transparently.",
+      "AI that is very expensive.",
+      "AI that takes responsibility for its actions."
+    ],
+    "answer": "AI that is built safely, ethically, and transparently."
+  },
+  {
+    "id": 2,
+    "question": "What is a 'Guardrail' in AI?",
+    "options": [
+      "A physical fence around the server.",
+      "A safety mechanism to prevent the AI from generating harmful or unwanted content.",
+      "A type of neural network.",
+      "A prompt engineering trick."
+    ],
+    "answer": "A safety mechanism to prevent the AI from generating harmful or unwanted content."
+  },
+  {
+    "id": 3,
+    "question": "Which platform did we use to deploy our Capstone project?",
+    "options": [
+      "AWS EC2",
+      "Streamlit Cloud / Hugging Face Spaces",
+      "Localhost",
+      "Google Drive"
+    ],
+    "answer": "Streamlit Cloud / Hugging Face Spaces"
+  },
+  {
+    "id": 4,
+    "question": "Why is modular code (agents/, tools/, tasks/) better for the Capstone?",
+    "options": [
+      "It looks cooler.",
+      "It is easier to maintain, debug, and expand.",
+      "It is required by Python.",
+      "It uses less memory."
+    ],
+    "answer": "It is easier to maintain, debug, and expand."
+  },
+  {
+    "id": 5,
+    "question": "What is the final step after building your agent?",
+    "options": [
+      "Delete the code.",
+      "Keep it local forever.",
+      "Deploy it and share the link for your portfolio.",
+      "Print the code on paper."
+    ],
+    "answer": "Deploy it and share the link for your portfolio."
+  }
+]
